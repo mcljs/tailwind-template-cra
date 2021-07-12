@@ -1,5 +1,9 @@
 # Tailwind v2 Template and Postcss8
 
+## Live demo
+
+Check the live demo here 👉️ [https://tailwind-template-cra.vercel.app/](https://tailwind-template-cra.vercel.app/)
+
 ## Usage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
